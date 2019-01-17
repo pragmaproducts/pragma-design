@@ -5,7 +5,7 @@ This repo contains all design projects and related source files.
 
 Main Section -> Project Name -> Sketch File
 
-------------- e.g. -------------
+------------- e.g. -------------<br>
 Components -> Query Builder -> QueryBuilder.sketch
 
 
@@ -14,5 +14,5 @@ Components -> Query Builder -> QueryBuilder.sketch
 The sketch file must be the latest for that spesific component once GIT is
 updtated that latest version sould reflect on Invision.
 
-------------- e.g. -------------
+------------- e.g. -------------<br>
 GIT(Latest Version) = Invision
