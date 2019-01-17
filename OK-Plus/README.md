@@ -3,23 +3,23 @@ This repo contains all design projects and related source files.
 
 # Layout of folder structure
 
-Main Section -> Project Name -> 0. Documentation -> Documentation
-                             -> 1. Wireframes -> Sketch file, Axure, Balsamiq etc.
-                             -> 2. Raw File -> Sketch File
-                             -> 3. Prototype -> Axure (If applicable)
-                             -> 4. Assets -> Images, Icons etc.
-                             -> 5. User Testing -> Findings
-                                                -> Videos
+Main Section -> Project Name -> 0. Documentation -> Documentation<br>
+                             -> 1. Wireframes -> Sketch file, Axure, Balsamiq etc.<br>
+                             -> 2. Raw File -> Sketch File<br>
+                             -> 3. Prototype -> Axure (If applicable)<br>
+                             -> 4. Assets -> Images, Icons etc.<br>
+                             -> 5. User Testing -> Findings<br>
+                                                -> Videos<br>
                                                 -> Scripts
 
 ------------- e.g. -------------<br>
-Components -> Query Builder  -> 0. Documentation -> QB.doc
-                             -> 1. Wireframes -> QB-Wireframes.sketch
-                             -> 2. Raw File -> QueryBuilder.sketch File
-                             -> 3. Prototype -> N/A
-                             -> 4. Assets -> Images, Icons etc.
-                             -> 5. User Testing -> Findings
-                                                -> Videos
+Components -> Query Builder  -> 0. Documentation -> QB.doc<br>
+                             -> 1. Wireframes -> QB-Wireframes.sketch<br>
+                             -> 2. Raw File -> QueryBuilder.sketch File<br>
+                             -> 3. Prototype -> N/A<br>
+                             -> 4. Assets -> Images, Icons etc.<br>
+                             -> 5. User Testing -> Findings<br>
+                                                -> Videos<br>
                                                 -> Scripts
 
 
