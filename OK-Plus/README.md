@@ -4,7 +4,7 @@ This repo contains all design projects and related source files.
 # Layout of folder structure
 
 Main Section -> Project Name -> 0. Documentation -> Documentation<br>
-                             -> 1. Wireframes -> Sketch file, Axure, Balsamiq etc.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> 1. Wireframes -> Sketch file, Axure, Balsamiq etc.<br>
                              -> 2. Raw File -> Sketch File<br>
                              -> 3. Prototype -> Axure (If applicable)<br>
                              -> 4. Assets -> Images, Icons etc.<br>
