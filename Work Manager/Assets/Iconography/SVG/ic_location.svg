@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_location</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1241.000000, -195.000000)"></g>
+        <g id="ic_location">
+            <g id="Page-1" transform="translate(4.000000, 4.000000)">
+                <polygon id="Stroke-1" stroke-opacity="0.00784313771" stroke="#000000" stroke-width="1.33333335e-11" points="0 0 23.9999985 0 23.9999985 23.9999985 0 23.9999985"></polygon>
+                <path d="M11.9999993,1.99999988 C8.12999962,1.99999988 4.9999997,5.1299998 4.9999997,8.99999946 C4.9999997,14.2499991 11.9999993,21.9999987 11.9999993,21.9999987 C11.9999993,21.9999987 18.9999989,14.2499991 18.9999989,8.99999946 C18.9999989,5.1299998 15.8699988,1.99999988 11.9999993,1.99999988 L11.9999993,1.99999988 Z M11.9999993,11.4999993 C10.6199992,11.4999993 9.49999943,10.3799995 9.49999943,8.99999946 C9.49999943,7.61999942 10.6199992,6.49999961 11.9999993,6.49999961 C13.3799993,6.49999961 14.4999991,7.61999942 14.4999991,8.99999946 C14.4999991,10.3799995 13.3799993,11.4999993 11.9999993,11.4999993 L11.9999993,11.4999993 Z" id="Fill-2" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

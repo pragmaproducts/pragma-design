@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_device</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-777.000000, -251.000000)"></g>
+        <g id="ic_device">
+            <g id="Page-1" transform="translate(4.000000, 4.000000)" stroke-opacity="0.00784313771" stroke="#000000" stroke-width="1.33333335e-11">
+                <polygon id="Stroke-1" points="0 0 23.9999985 0 23.9999985 23.9999985 0 23.9999985"></polygon>
+            </g>
+            <g id="Page-1" transform="translate(4.000000, 4.000000)">
+                <polygon id="Stroke-1" stroke-opacity="0.00784313771" stroke="#000000" stroke-width="1.33333335e-11" points="0 0 23.9999985 0 23.9999985 23.9999985 0 23.9999985"></polygon>
+                <path d="M16.9985704,1.00999999 L6.99142226,1 C5.89063605,1 5,1.90000009 5,3 L5,21 C5,22.1000003 5.89063605,23 6.99142226,23 L16.9985704,23 C18.099357,23 19,22.1000003 19,21 L19,3 C19,1.89999997 18.099357,1.00999999 16.9985704,1.00999999 Z M16.9985704,19 L6.99142226,19 L6.99142226,3 L16.9985704,3 L16.9985704,19 Z M12.0050041,22.0000012 C12.5576837,22.0000012 13.005719,21.5522859 13.005719,21.0000011 C13.005719,20.4477164 12.5576837,20.0000011 12.0050041,20.0000011 C11.4523245,20.0000011 11.0042892,20.4477164 11.0042892,21.0000011 C11.0042892,21.5522859 11.4523245,22.0000012 12.0050041,22.0000012 Z" id="Fill-2" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

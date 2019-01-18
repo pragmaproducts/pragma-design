@@ -1,0 +1,8 @@
+<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 128 128" xml:space="preserve">
+<g>
+	<rect x="52" y="24" fill="#757576" width="24" height="8"/>
+	<path fill="#757576" d="M89.3,48.4l4.4-4.4L88,38.3l-4.4,4.4C78.2,38.5,71.4,36,64,36c-17.7,0-32,14.3-32,32s14.3,32,32,32
+		s32-14.3,32-32C96,60.6,93.5,53.8,89.3,48.4z M64,92c-13.2,0-24-10.8-24-24s10.8-24,24-24v24l17,17C76.6,89.3,70.6,92,64,92z"/>
+</g>
+</svg>

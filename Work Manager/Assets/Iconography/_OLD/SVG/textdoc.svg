@@ -1,0 +1,10 @@
+<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 128 128" xml:space="preserve">
+<g>
+	<path fill="#2B66B1" d="M73.7,24H40c-4.4,0-8,3.6-8,8v64c0,4.4,3.6,8,8,8h48c4.4,0,8-3.6,8-8V46.3L73.7,24z"/>
+	<rect x="44.1" y="84" fill="#FFFFFF" width="19.9" height="4"/>
+	<rect x="44.1" y="72" fill="#FFFFFF" width="39.9" height="4"/>
+	<rect x="44.1" y="60" fill="#FFFFFF" width="39.9" height="4"/>
+	<polygon fill="#FFFFFF" points="72,48 72,28 92,48 	"/>
+</g>
+</svg>

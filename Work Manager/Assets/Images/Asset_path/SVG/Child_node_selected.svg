@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Child_node_selected</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="22" cy="22" rx="8" ry="8"></ellipse>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16" height="16" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16" height="16" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Artifacts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-265.000000, -181.000000)"></g>
+        <g id="Child_node_selected">
+            <g id="Oval-2">
+                <use stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="8" fill="#149EDC" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use stroke="#5E7083" mask="url(#mask-3)" stroke-width="4" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 128 128" xml:space="preserve">
+<path fill="#757576" d="M80,80c4.4,0,8-3.6,8-8V40L72,24H48c-4.4,0-8,3.6-8,8v40c0,4.4,3.6,8,8,8h12v8h-4v4H40v8h16v4h16v-4h16v-8
+	H72v-4h-4v-8H80z"/>
+<polygon fill="#FFFFFF" points="68,44 68,28 84,44 "/>
+</svg>

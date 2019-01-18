@@ -1,0 +1,11 @@
+<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 128 128" xml:space="preserve">
+<g>
+	<rect x="52" y="24" fill="#757576" width="24" height="8"/>
+	<rect x="92" y="68" fill="#757576" width="12" height="36"/>
+	<path fill="#757576" d="M89.2,48.4l4.4-4.4L88,38.3l-4.4,4.4C78.2,38.5,71.4,36,64,36c-17.7,0-32,14.3-32,32
+		c0,16.3,12.2,29.8,28,31.7v-8.1C48.7,89.7,40,79.9,40,68c0-13.2,10.8-24,24-24c10.4,0,19.2,6.7,22.5,16h8.4
+		C93.8,55.7,91.9,51.8,89.2,48.4z"/>
+	<rect x="68" y="68" fill="#757576" width="12" height="36"/>
+</g>
+</svg>

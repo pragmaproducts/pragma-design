@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_text</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-313.000000, -699.000000)"></g>
+        <g id="ic_text">
+            <g id="Group" transform="translate(4.000000, 4.000000)">
+                <g id="Page-1" stroke-opacity="0.00784313771" stroke="#000000" stroke-width="1.33333335e-11">
+                    <polygon id="Stroke-1" points="0 0 23.9999985 0 23.9999985 23.9999985 0 23.9999985"></polygon>
+                </g>
+                <polygon id="T" fill="#000000" points="5 4 18.8398438 4 18.8398438 8.2421875 17.1875 8.2421875 16.7773438 5.67578125 16.4257812 5.37109375 13.5429688 5.37109375 13.5429688 18.4257812 13.953125 18.8007812 15.5117188 18.9296875 15.5117188 20.1015625 8.328125 20.1015625 8.328125 18.9296875 9.8984375 18.8007812 10.296875 18.4257812 10.296875 5.37109375 7.42578125 5.37109375 7.0625 5.67578125 6.65234375 8.2421875 5 8.2421875"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
