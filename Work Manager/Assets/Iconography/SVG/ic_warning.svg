@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_warning</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy" transform="translate(-81.000000, -83.000000)"></g>
+        <g id="ic_warning">
+            <g id="ic_" transform="translate(4.000000, 4.000000)" stroke-opacity="0.00784313771" stroke="#000000" stroke-width="1.33333335e-11">
+                <polygon id="Stroke-1" points="0 0 23.9999985 0 23.9999985 23.9999985 0 23.9999985"></polygon>
+            </g>
+            <g id="Page-1" transform="translate(4.000000, 4.000000)">
+                <polygon id="Stroke-1" stroke-opacity="0.00784313771" stroke="#000000" stroke-width="1.33333335e-11" points="0 0 23.9999985 0 23.9999985 23.9999985 0 23.9999985"></polygon>
+                <path d="M0.99999994,20.9999987 L22.9999986,20.9999987 L11.9999993,1.99999988 L0.99999994,20.9999987 L0.99999994,20.9999987 Z M12.9999992,17.9999989 L10.9999993,17.9999989 L10.9999993,15.999999 L12.9999992,15.999999 L12.9999992,17.9999989 L12.9999992,17.9999989 Z M12.9999992,13.9999992 L10.9999993,13.9999992 L10.9999993,9.9999994 L12.9999992,9.9999994 L12.9999992,13.9999992 L12.9999992,13.9999992 Z" id="Fill-2" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

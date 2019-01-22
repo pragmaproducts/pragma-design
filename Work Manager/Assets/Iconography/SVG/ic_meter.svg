@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_meter</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-545.000000, -587.000000)"></g>
+        <g id="ic_meter">
+            <g id="Group" transform="translate(4.000000, 4.000000)">
+                <rect id="Rectangle-2" fill="#000000" transform="translate(13.787750, 10.312877) rotate(-45.000000) translate(-13.787750, -10.312877) " x="11.3306437" y="9.49908186" width="4.91421356" height="1.6275898"></rect>
+                <rect id="Rectangle-3" x="0" y="0" width="24" height="24"></rect>
+                <path d="M5.39703011,14.3313373 C5.13535769,13.5902146 5,12.8057577 5,12 C5,8.13400675 8.13400675,5 12,5 C15.8659932,5 19,8.13400675 19,12 C19,12.8142034 18.8617875,13.606647 18.5947263,14.3545536 L20.4782488,15.0271183 C20.816041,14.0811285 21,13.0620472 21,12 C21,7.02943725 16.9705627,3 12,3 C7.02943725,3 3,7.02943725 3,12 C3,13.0508612 3.18010426,14.0596568 3.51112908,14.9972031 L5.39703011,14.3313373 Z" id="Oval-3" fill="#000000"></path>
+                <circle id="Oval-2" fill="#000000" cx="12" cy="12" r="2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

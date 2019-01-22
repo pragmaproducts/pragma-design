@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp"
+    android:height="32dp"
+    android:viewportWidth="32"
+    android:viewportHeight="32">
+
+    <group
+            android:translateX="4.000000"
+            android:translateY="4.000000">
+        <path
+            android:fillType="evenOdd"
+            android:strokeColor="#000000"
+            android:strokeAlpha="0.00784313771"
+            android:strokeWidth="1.3333333511"
+            android:pathData="M 0 0 L 23.9999985 0 L 23.9999985 23.9999985 L 0 23.9999985 Z" />
+        <path
+            android:fillColor="#000000"
+            android:fillType="evenOdd"
+            android:strokeWidth="1"
+            android:pathData="M5.99999964,1.99999988 C4.8999998,1.99999988 4.00999998,2.89999992
+4.00999998,3.99999976 L3.99999976,19.9999988 C3.99999976,21.099999
+4.88999957,21.9999987 5.98999941,21.9999987 L17.9999989,21.9999987
+C19.0999992,21.9999987 19.9999988,21.099999 19.9999988,19.9999988
+L19.9999988,7.99999952 L13.9999992,1.99999988 L5.99999964,1.99999988
+L5.99999964,1.99999988 Z M12.9999992,8.99999946 L12.9999992,3.49999979
+L18.4999989,8.99999946 L12.9999992,8.99999946 L12.9999992,8.99999946 Z" />
+    </group>
+</vector>

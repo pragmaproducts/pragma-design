@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_task_spares</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy" transform="translate(-317.000000, -143.000000)"></g>
+        <g id="ic_task_spares">
+            <g id="ic_" stroke-opacity="0.00784313771" stroke="#000000" stroke-width="1.33333335e-11">
+                <polygon id="Stroke-1" points="0 0 23.9999985 0 23.9999985 23.9999985 0 23.9999985"></polygon>
+            </g>
+            <circle id="Oval" fill="#5E7083" cx="12" cy="12" r="8"></circle>
+            <g id="Page-1" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) translate(7.000000, 7.000000)" fill="#FFFFFF">
+                <path d="M9.38907791,7.2307443 L7.93333303,5.77499943 C8.45833283,4.43333273 8.16666618,2.85833293 7.05833308,1.74999962 C5.89166649,0.58333302 4.14166664,0.349999645 2.74166667,0.991666356 L5.24999968,3.49999979 L3.49999979,5.24999969 L0.933333289,2.74166639 C0.233333322,4.14166636 0.524999989,5.89166649 1.69166662,7.05833308 C2.79999994,8.16666618 4.37499974,8.45833283 5.71666643,7.93333303 C5.71666643,7.93333303 6.68696819,8.90363469 7.17211907,9.38878552 C8,9 9,8 9.38907791,7.2307443 Z" id="Fill-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

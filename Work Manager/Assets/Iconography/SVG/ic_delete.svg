@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_delete</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-777.000000, -867.000000)"></g>
+        <g id="ic_delete">
+            <g id="Page-1" transform="translate(4.000000, 4.000000)">
+                <polygon id="Stroke-1" stroke-opacity="0.00784313771" stroke="#000000" stroke-width="1.33333335e-11" points="0 0 23.9999985 0 23.9999985 23.9999985 0 23.9999985"></polygon>
+                <path d="M5.99999964,18.9999989 C5.99999964,20.0999991 6.89999968,20.9999987 7.99999952,20.9999987 L15.999999,20.9999987 C17.0999993,20.9999987 17.9999989,20.0999991 17.9999989,18.9999989 L17.9999989,6.99999958 L5.99999964,6.99999958 L5.99999964,18.9999989 L5.99999964,18.9999989 Z M18.9999989,3.99999976 L15.4999991,3.99999976 L14.4999991,2.99999982 L9.49999943,2.99999982 L8.49999949,3.99999976 L4.9999997,3.99999976 L4.9999997,5.99999964 L18.9999989,5.99999964 L18.9999989,3.99999976 L18.9999989,3.99999976 Z" id="Fill-2" fill="#000003"></path>
+            </g>
+        </g>
+    </g>
+</svg>

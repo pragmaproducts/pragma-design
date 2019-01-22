@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>switch_connection</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="svg-512" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="switch_connection" fill="#4A4A4A">
+            <g id="Group">
+                <path d="M0,0 L224,0 L224,224 L0,224 L0,0 Z M32,32 L64,32 L64,64 L32,64 L32,32 Z M32,96 L64,96 L64,128 L32,128 L32,96 Z M32,160 L64,160 L64,192 L32,192 L32,160 Z" id="Combined-Shape"></path>
+                <path d="M288,288 L512,288 L512,512 L288,512 L288,288 Z M320,320 L352,320 L352,352 L320,352 L320,320 Z M320,384 L352,384 L352,416 L320,416 L320,384 Z M320,448 L352,448 L352,480 L320,480 L320,448 Z" id="Combined-Shape-Copy"></path>
+                <path d="M352,192 L416,256 L480,192 L352,192 L352,192 Z M448,192 C448,121.307552 390.692448,64 320,64 C308.950414,64 298.227838,65.4000961 288,68.0325595 C343.207271,82.2419289 384,132.357138 384,192 L448,192 L448,192 Z" id="Combined-Shape"></path>
+                <path d="M96,384 L160,448 L224,384 L96,384 L96,384 Z M192,384 C192,313.307552 134.692448,256 64,256 C52.9504138,256 42.2278375,257.400096 32,260.03256 C87.2072708,274.241929 128,324.357138 128,384 L192,384 L192,384 Z" id="Combined-Shape-Copy-3" transform="translate(128.000000, 352.000000) scale(-1, -1) translate(-128.000000, -352.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 128 128" xml:space="preserve">
+<g>
+	<path fill="#FCB316" d="M96,32H32c-4.4,0-8,3.6-8,8v48c0,4.4,3.6,8,8,8h64c4.4,0,8-3.6,8-8V40C104,35.6,100.4,32,96,32L96,32z"/>
+	<circle fill="#FFFFFF" cx="48" cy="52" r="8"/>
+	<polygon fill="#FFFFFF" points="83.2,56.6 67.7,72.1 73.8,78.2 70.2,81.8 51.3,62.9 36,78.2 36,84 92,84 92,65.4 	"/>
+</g>
+</svg>
