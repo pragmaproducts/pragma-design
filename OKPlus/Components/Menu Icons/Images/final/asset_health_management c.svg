@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>asset_health_management c</title>
+    <desc>Created with Sketch.</desc>
+    <g id="asset_health_management-c" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M11.9009006,8.95670378 C12.3978046,6.13311084 14.6709248,4 17.4,4 C20.4927946,4 23,6.73958376 23,10.1190316 C23,12.1411269 22.1023611,13.9341358 20.7187391,15.0482482 L12.2,23 L3.37452616,15.0605558 C3.16290917,14.894694 2.96163811,14.7136123 2.77232785,14.5188149 L2.69583333,14.45 L2.70284119,14.4461267 C1.6615527,13.3387769 1,11.808903 1,10.1190362 C1,6.73958583 3.46243388,4 6.5,4 C9.1803405,4 11.4128685,6.13311057 11.9009006,8.95670378 Z" id="Combined-Shape" fill="#000000"></path>
+        <polyline id="Path-13" stroke="#FFFFFF" points="3.2 12.1624221 5.67621369 12.1624221 7.55788476 14.4872664 8.96913806 11 10.3803914 15 11.7916447 12.7436332 13.202898 14.4872664 14.6141513 12.1624221 16.0254046 13.9060553 18.2434732 12.9999972 21.2 13"></polyline>
+    </g>
+</svg>
