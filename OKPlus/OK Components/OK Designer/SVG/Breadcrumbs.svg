@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="324px" height="17px" viewBox="0 0 324 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Breadcrumbs</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="No-Odd-&amp;-Even" transform="translate(-24.000000, -74.000000)">
+            <g id="Base" transform="translate(-1.000000, -1.000000)">
+                <g id="Breadcrumbs" transform="translate(25.000000, 70.000000)">
+                    <text id="5000001078" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" line-spacing="16" fill="#2776C1">
+                        <tspan x="261" y="21">5000001078</tspan>
+                    </text>
+                    <text id="MeterReading" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="8" font-weight="normal" line-spacing="16" fill="#2776C1">
+                        <tspan x="261" y="8">MeterReading</tspan>
+                    </text>
+                    <path d="M246.828106,15.3750206 L241.29687,20.8125076 C241.20312,20.9375075 241.07812,21.0000072 240.92187,21.0000072 C240.765621,21.0000072 240.624996,20.9375075 240.499996,20.8125076 L240.171872,20.4843834 C240.046872,20.3906336 239.984373,20.2656337 239.984373,20.1093843 C239.984373,19.9531349 240.046872,19.8125102 240.171872,19.6875103 L244.953111,15.0000215 L240.171872,10.3125326 C240.078122,10.1875327 240.031248,10.046908 240.031248,9.89065864 C240.031248,9.73440925 240.078122,9.60940931 240.171872,9.51565953 L240.499996,9.14066043 C240.624996,9.04691065 240.765621,9.00003576 240.92187,9.00003576 C241.07812,9.00003576 241.20312,9.04691065 241.29687,9.14066043 L246.828106,14.5781475 C246.921856,14.7031474 246.968731,14.8437721 246.968731,15.0000215 C246.968731,15.1562708 246.921856,15.2968955 246.828106,15.4218955 L246.828106,15.3750206 Z" id="icon-seperate" fill="#292929" fill-rule="nonzero"></path>
+                    <text id="5000001010" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="12" font-weight="normal" line-spacing="16" fill="#292C36">
+                        <tspan x="162" y="21">5000001010</tspan>
+                    </text>
+                    <text id="Meters-Copy-2" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="8" font-weight="normal" line-spacing="16" fill="#292C36">
+                        <tspan x="162" y="8">Meters</tspan>
+                    </text>
+                    <path d="M147.828106,15.3750206 L142.29687,20.8125076 C142.20312,20.9375075 142.07812,21.0000072 141.92187,21.0000072 C141.765621,21.0000072 141.624996,20.9375075 141.499996,20.8125076 L141.171872,20.4843834 C141.046872,20.3906336 140.984373,20.2656337 140.984373,20.1093843 C140.984373,19.9531349 141.046872,19.8125102 141.171872,19.6875103 L145.953111,15.0000215 L141.171872,10.3125326 C141.078122,10.1875327 141.031248,10.046908 141.031248,9.89065864 C141.031248,9.73440925 141.078122,9.60940931 141.171872,9.51565953 L141.499996,9.14066043 C141.624996,9.04691065 141.765621,9.00003576 141.92187,9.00003576 C142.07812,9.00003576 142.20312,9.04691065 142.29687,9.14066043 L147.828106,14.5781475 C147.921856,14.7031474 147.968731,14.8437721 147.968731,15.0000215 C147.968731,15.1562708 147.921856,15.2968955 147.828106,15.4218955 L147.828106,15.3750206 Z" id="icon-seperate" fill="#292929" fill-rule="nonzero"></path>
+                    <text id="Details" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="12" font-weight="normal" line-spacing="16" fill="#292C36">
+                        <tspan x="90" y="21">Details</tspan>
+                    </text>
+                    <text id="Meters-Copy" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="8" font-weight="normal" line-spacing="16" fill="#292C36">
+                        <tspan x="90" y="8">Meters</tspan>
+                    </text>
+                    <path d="M75.8281063,15.3750206 L70.2968695,20.8125076 C70.2031197,20.9375075 70.0781198,21.0000072 69.9218704,21.0000072 C69.765621,21.0000072 69.6249964,20.9375075 69.4999964,20.8125076 L69.1718722,20.4843834 C69.0468723,20.3906336 68.9843727,20.2656337 68.9843727,20.1093843 C68.9843727,19.9531349 69.0468723,19.8125102 69.1718722,19.6875103 L73.9531108,15.0000215 L69.1718722,10.3125326 C69.0781224,10.1875327 69.0312475,10.046908 69.0312475,9.89065864 C69.0312475,9.73440925 69.0781224,9.60940931 69.1718722,9.51565953 L69.4999964,9.14066043 C69.6249964,9.04691065 69.765621,9.00003576 69.9218704,9.00003576 C70.0781198,9.00003576 70.2031197,9.04691065 70.2968695,9.14066043 L75.8281063,14.5781475 C75.9218561,14.7031474 75.968731,14.8437721 75.968731,15.0000215 C75.968731,15.1562708 75.9218561,15.2968955 75.8281063,15.4218955 L75.8281063,15.3750206 Z" id="icon-seperate" fill="#292929" fill-rule="nonzero"></path>
+                    <text id="Dashboard" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="12" font-weight="normal" line-spacing="16" fill="#292929">
+                        <tspan x="0" y="21">Dashboard</tspan>
+                    </text>
+                    <text id="Meters" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="8" font-weight="normal" line-spacing="16" fill="#292929">
+                        <tspan x="0" y="8">Meters</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
