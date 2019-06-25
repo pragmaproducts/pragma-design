@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1921px" height="808px" viewBox="0 0 1921 808" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
     <title>modal</title>
     <desc>Created with Sketch.</desc>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="modal">
             <rect id="Rectangle" fill="#F4F6F8" fill-rule="nonzero" opacity="0.00576636905" x="0" y="0" width="1921" height="807"></rect>
             <g id="Modal" transform="translate(1.000000, 49.000000)">
-                <rect id="Rectangle" fill="#292C36" fill-rule="nonzero" opacity="0.900000036" x="0.5" y="0.5" width="1583" height="758"></rect>
+                <rect id="--c-overlay" fill="#292C36" fill-rule="nonzero" opacity="0.5" x="0.5" y="0.5" width="1583" height="758"></rect>
                 <g id="Modal-Box" transform="translate(586.000000, 278.000000)">
                     <g id="path-15-link" fill="#000000" fill-rule="nonzero">
                         <rect id="path-15" x="0" y="0.5" width="412" height="202" rx="4"></rect>

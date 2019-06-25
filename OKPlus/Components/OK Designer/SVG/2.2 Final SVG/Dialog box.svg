@@ -89,7 +89,7 @@
                     </text>
                 </g>
                 <g id="Alt-Description" transform="translate(20.000000, 238.000000)">
-                    <path d="M5,24 L525,24 C527.209139,24 529,25.790861 529,28 L529,95 C529,97.209139 527.209139,99 525,99 L5,99 C2.790861,99 1,97.209139 1,95 L1,28 C1,25.790861 2.790861,24 5,24 Z M5,24.5 C3.06700338,24.5 1.5,26.0670034 1.5,28 L1.5,95 C1.5,96.9329966 3.06700338,98.5 5,98.5 L525,98.5 C526.932997,98.5 528.5,96.9329966 528.5,95 L528.5,28 C528.5,26.0670034 526.932997,24.5 525,24.5 L5,24.5 Z" id="--c-border" fill="#292C36" fill-rule="nonzero"></path>
+                    <rect id="Rectangle-Copy-4" stroke="#292C36" stroke-width="0.5" opacity="0.8" x="1.25" y="24.25" width="527.5" height="74.5" rx="4"></rect>
                     <text id="--c-text" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16" font-weight="normal" fill="#292C36">
                         <tspan x="12" y="46">Alan Dawson</tspan>
                     </text>
