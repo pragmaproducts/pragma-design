@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1921px" height="808px" viewBox="0 0 1921 808" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>modal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="modal">
+            <rect id="Rectangle" fill="#F4F6F8" fill-rule="nonzero" opacity="0.00576636905" x="0" y="0" width="1921" height="807"></rect>
+            <g id="Modal" transform="translate(1.000000, 49.000000)">
+                <rect id="--c-overlay" fill="#292C36" fill-rule="nonzero" opacity="0.5" x="0.5" y="0.5" width="1583" height="758"></rect>
+                <g id="Modal-Box" transform="translate(586.000000, 278.000000)">
+                    <g id="path-15-link" fill="#000000" fill-rule="nonzero">
+                        <rect id="path-15" x="0" y="0.5" width="412" height="202" rx="4"></rect>
+                    </g>
+                    <g id="path-15-link" fill="#292C36">
+                        <rect id="--c-global-dark-bg" x="0" y="0.5" width="412" height="202" rx="4"></rect>
+                    </g>
+                </g>
+                <path d="M809.942708,318.464844 C810.647569,319.175781 811,320.039063 811,321.054688 L811,346.34375 C811,347.359375 810.647569,348.222657 809.942708,348.933594 C809.237848,349.644531 808.381944,350 807.375,350 L785.625,350 C784.618056,350 783.762152,349.644531 783.057292,348.933594 C782.352431,348.222657 782,347.359375 782,346.34375 L782,314.656259 C782,313.640625 782.352431,312.777343 783.057292,312.066406 C783.762152,311.355469 784.618056,311 785.625009,311 L801.03125,311 C802.038194,311 802.894098,311.355469 803.598958,312.066406 L809.942708,318.464844 Z M806,321 L800,316 L800,321 L806,321 Z M785,346 L807,346 L807,323.846154 L799.055556,323.846154 C798.546296,323.846154 798.113426,323.666667 797.756944,323.307692 C797.400463,322.948718 797.222222,322.512821 797.222222,322 L797.222222,314 L785,314 L785,346 Z" id="--c-text-light" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <rect id="--c-p-button-bg" fill="#F4F4F4" fill-rule="nonzero" x="751" y="416" width="90" height="30" rx="4"></rect>
+                <g id="STOP" transform="translate(777.000000, 420.000000)" fill="#292C36" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="16" font-weight="bold">
+                    <text id="--c-p-button">
+                        <tspan x="0" y="16">STOP</tspan>
+                    </text>
+                </g>
+                <g id="--c-text-light" transform="translate(722.000000, 371.000000)" fill="#FFFFFF" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16" font-weight="normal">
+                    <text id="Records-Fetched-:-2500">
+                        <tspan x="0" y="16">Records Fetched : 2500</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
