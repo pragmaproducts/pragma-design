@@ -1,0 +1,32 @@
+.table {
+  display: table;
+  width: 100%;
+  border: 1px solid #AACAD5;
+}
+
+.table-colgroup {
+  display: table-colgroup;
+}
+
+.table-column {
+  display: table-column;
+}
+
+.table-row {
+  display: table-row;
+  color: #616161;
+} 
+
+.table-cell {
+  display: table-cell;
+  border: 1px solid #AACAD5;
+  padding: 1em;
+} 
+
+.table-footer-group {
+  display: table-footer-group;
+  padding: 5px;
+  font-weight: bold;
+  text-align: right;
+  font-size: .9em;
+} 

@@ -1,0 +1,11 @@
+@import './../node_modules/pragma-views2/scss/lib/variables';
+
+#logo {
+  fill: rgba(var(--c-text), 1);
+}
+
+@media screen and (min-width: 813px) {
+  .properties-panel-margin {
+    margin-right: $assistant-width;
+  }
+}

@@ -1,0 +1,23 @@
+@import './../lib/mixins';
+@import './../lib/variables';
+
+input-composite {
+  @include flex();
+  @include flex-row();
+
+  .label {
+    width: $label-width
+  }
+
+  label {
+    display: block;
+    width: 100%;
+  }
+
+  div:last-child {
+    @include stretch();
+  }
+}
+
+
+

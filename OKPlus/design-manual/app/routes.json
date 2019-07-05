@@ -1,0 +1,8 @@
+{
+  "": {
+    "view": "welcome"
+  },
+  "welcome": {
+    "view": "welcome"
+  }
+}
