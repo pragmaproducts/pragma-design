@@ -1,0 +1,5 @@
+.piped:before {
+    content: "|";
+    padding-left: $default-padding / 4;
+    padding-right: $default-padding / 4;
+}

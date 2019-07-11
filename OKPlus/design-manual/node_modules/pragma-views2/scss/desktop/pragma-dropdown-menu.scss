@@ -1,0 +1,34 @@
+@import './../lib/variables';
+@import './../lib/mixins.scss';
+
+pragma-dropdown-menu {
+  ul {
+    width: $default-dropdown-width;
+    @include box-shadow(0, 0.5rem, 1rem, 0, 10, 25, 41, $default-shadow);
+    padding: 1rem;
+  }
+
+  .background {
+    background: transparent;
+    display: none;
+  }
+
+  input:checked ~ .background {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 99;
+  }
+}
+
+pragma-dropdown-menu.left ul {
+  left: 0;
+}
+
+pragma-dropdown-menu.right ul {
+  right: 0;
+}
+
