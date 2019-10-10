@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="146px" height="69px" viewBox="0 0 146 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Document</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Document" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0.5,0.5 L0.5,55.5262687 C7.45747552,64.1690714 18.6915383,68.5 34.2463487,68.5 C39.5301361,68.5 45.0258068,67.6268675 51.163911,65.9287826 C56.5812172,64.4301039 60.536145,63.0066027 70.9174801,59.0074856 C89.2310277,51.9527067 98.1181831,49.448127 109.222755,49.448127 C125.358645,49.448127 137.454344,52.5998385 145.5,58.9275216 L145.5,0.5 L0.5,0.5 Z" id="Rectangle" stroke="#292929" fill="#B9D8EC"></path>
+        <text font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16" font-weight="normal" fill="#292929">
+            <tspan x="38.064" y="16">Document</tspan>
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="155px" height="48px" viewBox="0 0 155 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Input / Output</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Input-/-Output" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M20.3333333,0.5 L0.75,47.5 L134.666667,47.5 L154.25,0.5 L20.3333333,0.5 Z" id="Rectangle" stroke="#292929" fill="#B9D8EC"></path>
+        <text font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16" font-weight="normal" fill="#292929">
+            <tspan x="30.16" y="28">Input / Output</tspan>
+        </text>
+    </g>
+</svg>

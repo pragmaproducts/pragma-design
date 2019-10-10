@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="69px" viewBox="0 0 69 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Database</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Database" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M68.5,57.926189 L68.5,58.1639344 L69,58.1639344 L69.0094243,57.6640233 L68.5358636,57.6550957 L68.5,57.926189 Z M0.5,57.926189 L0.464136441,57.6550957 L-0.00942431681,57.6640233 L0,58.1639344 L0.5,58.1639344 L0.5,57.926189 Z M0.5,10.5 L0.5,10 L0,10.5 L0.5,10.5 Z M68.5,10.5 L69,10.5 L68.5,10 L68.5,10.5 Z" id="Oval-2" stroke="#292929" fill="#B9D8EC"></path>
+        <ellipse id="Oval" stroke="#292929" fill="#B9D8EC" cx="34.5" cy="10" rx="34" ry="9.5"></ellipse>
+    </g>
+</svg>
