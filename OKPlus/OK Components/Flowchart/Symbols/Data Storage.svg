@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="146px" height="48px" viewBox="0 0 146 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Data Storage</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Data-Storage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M144.676494,47.5 C127.282893,31.8804995 127.282893,16.1195005 144.676494,0.5 C112.743987,0.5 112.302873,0.5 79.5,0.5 C46.25,0.5 46.25,0.5 13,0.5 C6.09644063,0.5 0.5,6.09644063 0.5,13 L0.5,35 C0.5,41.9035594 6.09644063,47.5 13,47.5 L144.676494,47.5 Z" id="Rectangle" stroke="#292929" fill="#B9D8EC"></path>
+        <text font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16" font-weight="normal" fill="#292929">
+            <tspan x="29.592" y="28">Data Storage</tspan>
+        </text>
+    </g>
+</svg>

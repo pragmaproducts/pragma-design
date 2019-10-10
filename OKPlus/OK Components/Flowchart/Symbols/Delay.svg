@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="146px" height="48px" viewBox="0 0 146 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Delay</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Delay" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0.5,0.5 L0.5,47.5 L122,47.5 C134.978692,47.5 145.5,36.9786916 145.5,24 C145.5,11.0213084 134.978692,0.5 122,0.5 L0.5,0.5 Z" id="Rectangle" stroke="#292929" fill="#B9D8EC"></path>
+        <text font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16" font-weight="normal" fill="#292929">
+            <tspan x="54.304" y="28">Delay</tspan>
+        </text>
+    </g>
+</svg>
