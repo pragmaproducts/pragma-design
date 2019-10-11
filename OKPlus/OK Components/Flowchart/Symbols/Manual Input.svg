@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="146px" height="58px" viewBox="0 0 146 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Manual Input</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Manual-Input" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0.5,10.4669249 L0.5,57.5 L145.5,57.5 L145.5,0.535418031 L0.5,10.4669249 Z" id="Rectangle" stroke="#D8D8D8" fill="#B9D8EC"></path>
+        <path d="M0.5,10.4669249 L0.5,57.5 L145.5,57.5 L145.5,0.535418031 L0.5,10.4669249 Z" id="Rectangle" stroke="#292929" fill="#B9D8EC"></path>
+        <text font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16" font-weight="normal" fill="#292929">
+            <tspan x="28.776" y="38">Manual Input</tspan>
+        </text>
+    </g>
+</svg>

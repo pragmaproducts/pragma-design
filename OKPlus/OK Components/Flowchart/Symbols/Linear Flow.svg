@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="209px" height="652px" viewBox="0 0 209 652" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Linear Flow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Linear-Flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Start-/-Finish" transform="translate(29.000000, 25.000000)">
+            <rect id="Rectangle" stroke="#292929" stroke-width="1" fill="#0276C2" fill-rule="evenodd" x="0.5" y="0.5" width="145" height="48" rx="24"></rect>
+            <text id="Strart-/-Finish" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" fill="#FFFFFF">
+                <tspan x="58.573" y="27">Start</tspan>
+            </text>
+        </g>
+        <g id="Start-/-Finish" transform="translate(29.000000, 578.000000)">
+            <rect id="Rectangle" stroke="#292929" stroke-width="1" fill="#0276C2" fill-rule="evenodd" x="0.5" y="0.5" width="145" height="48" rx="24"></rect>
+            <text id="Strart-/-Finish" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" fill="#FFFFFF">
+                <tspan x="55.528" y="27">Finish</tspan>
+            </text>
+        </g>
+        <g id="Process" transform="translate(29.000000, 302.000000)">
+            <rect id="Rectangle" stroke="#292929" stroke-width="1" fill="#1ABC9C" fill-rule="evenodd" x="0.5" y="0.5" width="145" height="47"></rect>
+            <text font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" line-spacing="16" fill="#FFFFFF">
+                <tspan x="43.929" y="13.448">Process</tspan>
+            </text>
+        </g>
+        <g id="Input-/-Output" transform="translate(24.000000, 441.000000)">
+            <path d="M20.3333333,0.5 L0.75,47.5 L134.666667,47.5 L154.25,0.5 L20.3333333,0.5 Z" id="Rectangle" stroke="#292929" stroke-width="1" fill="#B9D8EC" fill-rule="evenodd"></path>
+            <text font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16" font-weight="normal" fill="#292929">
+                <tspan x="54.136" y="28">Output</tspan>
+            </text>
+        </g>
+        <g id="Connector" transform="translate(102.000000, 116.500000) scale(1, -1) rotate(-90.000000) translate(-102.000000, -116.500000) translate(57.000000, 116.000000)" fill="#D8D8D8" fill-rule="nonzero">
+            <path id="Line-2" d="M81.3551573,-4 L90.3551573,0.5 L81.3551573,5 L81.355,1 L0.218256875,1 L0.218256875,0 L81.355,0 L81.3551573,-4 Z"></path>
+        </g>
+        <g id="Connector" transform="translate(102.000000, 254.500000) scale(1, -1) rotate(-90.000000) translate(-102.000000, -254.500000) translate(57.000000, 254.000000)" fill="#D8D8D8" fill-rule="nonzero">
+            <path id="Line-2" d="M81.3551573,-4 L90.3551573,0.5 L81.3551573,5 L81.355,1 L0.218256875,1 L0.218256875,0 L81.355,0 L81.3551573,-4 Z"></path>
+        </g>
+        <g id="Connector" transform="translate(102.000000, 394.500000) scale(1, -1) rotate(-90.000000) translate(-102.000000, -394.500000) translate(57.000000, 394.000000)" fill="#D8D8D8" fill-rule="nonzero">
+            <path id="Line-2" d="M81.3551573,-4 L90.3551573,0.5 L81.3551573,5 L81.355,1 L0.218256875,1 L0.218256875,0 L81.355,0 L81.3551573,-4 Z"></path>
+        </g>
+        <g id="Connector" transform="translate(102.000000, 533.500000) scale(1, -1) rotate(-90.000000) translate(-102.000000, -533.500000) translate(57.000000, 533.000000)" fill="#D8D8D8" fill-rule="nonzero">
+            <path id="Line-2" d="M81.3551573,-4 L90.3551573,0.5 L81.3551573,5 L81.355,1 L0.218256875,1 L0.218256875,0 L81.355,0 L81.3551573,-4 Z"></path>
+        </g>
+        <g id="Input-/-Output" transform="translate(24.000000, 162.000000)">
+            <path d="M20.3333333,0.5 L0.75,47.5 L134.666667,47.5 L154.25,0.5 L20.3333333,0.5 Z" id="Rectangle" stroke="#292929" stroke-width="1" fill="#B9D8EC" fill-rule="evenodd"></path>
+            <text font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16" font-weight="normal" fill="#292929">
+                <tspan x="60.024" y="28">Input</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
