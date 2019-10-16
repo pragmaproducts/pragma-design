@@ -1,1 +1,12 @@
-<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><rect stroke="#000" stroke-width="1.5" x=".75" y=".75" width="22.5" height="22.5" rx="5"/><path d="M9.434 17.764l-5.2-5.23a.808.808 0 0 1 0-1.137l1.132-1.138a.797.797 0 0 1 1.131 0L10 13.782l7.503-7.546a.797.797 0 0 1 1.131 0l1.132 1.138a.808.808 0 0 1 0 1.137l-9.2 9.253a.797.797 0 0 1-1.132 0z" fill="#000" fill-rule="nonzero"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>checkbox</title>
+    <desc>Created with Sketch.</desc>
+    <g id="checkbox" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Rectangle" stroke="#000000" stroke-width="1.5" x="0.75" y="0.75" width="22.5" height="22.5" rx="5"></rect>
+            <path d="M9.43430999,17.7643204 L4.23430492,12.534417 C3.92189836,12.2202142 3.92189836,11.7107701 4.23430492,11.3965359 L5.36564977,10.2586547 C5.67805633,9.94442049 6.18461932,9.94442049 6.49702588,10.2586547 L10,13.7817364 L17.5029741,6.23565209 C17.8153807,5.9214493 18.3219437,5.9214493 18.6343502,6.23565209 L19.7656951,7.37353324 C20.0781016,7.68773603 20.0781016,8.19718017 19.7656951,8.51141439 L10.5656861,17.7643518 C10.2532483,18.0785546 9.74671655,18.0785546 9.43430999,17.7643204 L9.43430999,17.7643204 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

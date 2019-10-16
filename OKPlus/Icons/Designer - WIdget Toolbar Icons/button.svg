@@ -1,1 +1,10 @@
-<svg width="50" height="21" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path stroke="#292C36" stroke-width="1.5" d="M.75.75h48.5v19.5H.75z"/><path fill="#000" d="M8 9h33v2H8z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>button</title>
+    <desc>Created with Sketch.</desc>
+    <g id="button" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#000000" stroke-width="1.5" x="0.75" y="6.75" width="22.5" height="7.5"></rect>
+        <rect id="Rectangle" fill="#000000" x="3" y="10" width="18" height="1"></rect>
+    </g>
+</svg>
