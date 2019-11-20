@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1921px" height="808px" viewBox="0 0 1921 808" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Dialog box</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-3.5%" y="-2.9%" width="107.0%" height="105.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dialog-box">
+            <rect id="Rectangle" fill="#F4F6F8" fill-rule="nonzero" opacity="0.00576636905" x="0" y="0" width="1921" height="807"></rect>
+            <g id="Modal" transform="translate(1.000000, 49.000000)" fill="#292C36" fill-rule="nonzero" opacity="0.5">
+                <rect id="--c-overlay" x="0.5" y="0.5" width="1583" height="758"></rect>
+            </g>
+            <g filter="url(#filter-1)" transform="translate(517.000000, 84.000000)">
+                <rect id="--c-surface-bg" fill="#FFFFFF" x="1" y="-5.68434189e-14" width="568" height="688" rx="4"></rect>
+                <g id="Footer" transform="translate(1.000000, 640.000000)">
+                    <path d="M0,0 L568,0 L568,44 C568,46.209139 566.209139,48 564,48 L4,48 C1.790861,48 2.705415e-16,46.209139 0,44 L0,0 Z" id="--c-footer-bar" fill="#DDDCDF"></path>
+                    <g id="secondary" transform="translate(306.500000, 8.000000)">
+                        <rect id="--c-s-button-bg" fill="#DDDCDF" opacity="0" x="0.5" y="0" width="90" height="32" rx="4"></rect>
+                        <text id="--c-s-button" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="16" font-weight="bold" line-spacing="20" fill="#292C36">
+                            <tspan x="21.884" y="21">Cancel</tspan>
+                        </text>
+                    </g>
+                    <g id="primary" transform="translate(411.000000, 8.000000)">
+                        <rect id="--c-p-button-bg" stroke="#292C36" fill="#F4F4F4" x="0.5" y="0.5" width="140" height="31" rx="4"></rect>
+                        <text id="--c-p-button" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="16" font-weight="bold" line-spacing="20" fill="#292C36">
+                            <tspan x="16.992" y="21">Save And Close</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Header-Group" transform="translate(1.000000, 574.000000)">
+                    <rect id="--c-group-bar" fill="#FBFBFB" x="0" y="0" width="568" height="48"></rect>
+                    <rect id="--c-accent" fill="#0076C2" x="0" y="0" width="8" height="48"></rect>
+                    <text id="--c-text" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="16" font-weight="bold" fill="#212B36">
+                        <tspan x="46" y="31">Header</tspan>
+                    </text>
+                    <path d="M27.6015468,19.9062764 L33.382783,25.6484503 C33.4609078,25.7526169 33.4999702,25.8632935 33.4999702,25.9804807 C33.4999702,26.0976679 33.4609078,26.2083446 33.382783,26.3125112 L32.6015348,27.0937593 C32.4973682,27.1718841 32.380181,27.2109465 32.2499732,27.2109465 C32.1197654,27.2109465 32.0155987,27.1718841 31.9374739,27.0937593 L27.2499851,22.4453329 L22.5624963,27.0937593 C22.4843715,27.1718841 22.3802048,27.2109465 22.249997,27.2109465 C22.1197892,27.2109465 22.002602,27.1718841 21.8984354,27.0937593 L21.1562496,26.3125112 C21.052083,26.2083446 21,26.0976679 21,25.9804807 C21,25.8632935 21.0390624,25.7526169 21.1171872,25.6484503 L26.9374858,19.9062764 C27.0156107,19.8281516 27.1197773,19.7890892 27.2499851,19.7890892 C27.3801929,19.7890892 27.4973801,19.8281516 27.6015468,19.9062764 Z" id="--c-text" fill="#212B36" fill-rule="nonzero"></path>
+                </g>
+                <g id="Permission-Tree" transform="translate(20.000000, 504.000000)">
+                    <rect id="--c-border" fill="#D8D8D8" x="1" y="39" width="530" height="1"></rect>
+                    <text id="--c-font-label" opacity="0.800000012" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" fill="#888888">
+                        <tspan x="0" y="14">Permission Tree Description</tspan>
+                    </text>
+                    <text id="--c-disabled" fill="#ABABAB" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16" font-weight="normal">
+                        <tspan x="1" y="34">ROOT</tspan>
+                    </text>
+                </g>
+                <g id="Permission-Tree" transform="translate(20.000000, 448.000000)">
+                    <rect id="--c-border" fill="#D8D8D8" x="1" y="39" width="530" height="1"></rect>
+                    <text id="--c-disabled" fill="#ABABAB" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16" font-weight="normal">
+                        <tspan x="1" y="34">ROOT</tspan>
+                    </text>
+                    <text id="--c-font-label" opacity="0.800000012" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" fill="#888888">
+                        <tspan x="0" y="14">Permission Tree Code</tspan>
+                    </text>
+                </g>
+                <g id="isActive" transform="translate(21.000000, 415.000000)">
+                    <g id="check" transform="translate(0.000000, 2.000000)">
+                        <rect id="--c-disabled" fill="#A2A2A2" fill-rule="nonzero" x="0.5" y="0.5" width="13.5" height="13.5" rx="2"></rect>
+                        <g id="tick-copy-3" transform="translate(2.000000, 3.000000)">
+                            <g id="path-8-link" fill="#000000" fill-rule="nonzero">
+                                <polygon id="path-8" points="3.80952381 8 0 4.15472471 1.07428559 3.07388314 3.80952381 5.81814768 9.592381 0 10.6666667 1.08850726"></polygon>
+                            </g>
+                            <g id="path-8-link" fill="#FFFFFF">
+                                <polygon id="path-8" points="3.80952381 8 0 4.15472471 1.07428559 3.07388314 3.80952381 5.81814768 9.592381 0 10.6666667 1.08850726"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                    <text id="--c-disabled" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" fill="#888888">
+                        <tspan x="30" y="14">IsActive</tspan>
+                    </text>
+                </g>
+                <g id="Description-Input-Field" transform="translate(20.000000, 353.000000)">
+                    <rect id="--c-border" fill="#D8D8D8" x="1" y="39" width="530" height="1"></rect>
+                    <text id="--c-font-label" opacity="0.800000012" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" fill="#888888">
+                        <tspan x="0" y="14">Sequence Number</tspan>
+                    </text>
+                    <text id="--c-text" fill="#272C37" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16" font-weight="normal">
+                        <tspan x="1" y="34">1</tspan>
+                    </text>
+                </g>
+                <g id="Alt-Description" transform="translate(20.000000, 238.000000)">
+                    <path d="M5,24 L525,24 C527.209139,24 529,25.790861 529,28 L529,95 C529,97.209139 527.209139,99 525,99 L5,99 C2.790861,99 1,97.209139 1,95 L1,28 C1,25.790861 2.790861,24 5,24 Z M5,24.5 C3.06700338,24.5 1.5,26.0670034 1.5,28 L1.5,95 C1.5,96.9329966 3.06700338,98.5 5,98.5 L525,98.5 C526.932997,98.5 528.5,96.9329966 528.5,95 L528.5,28 C528.5,26.0670034 526.932997,24.5 525,24.5 L5,24.5 Z" id="--c-border" fill="#292C36" fill-rule="nonzero"></path>
+                    <text id="--c-text" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16" font-weight="normal" fill="#292C36">
+                        <tspan x="12" y="46">Alan Dawson</tspan>
+                    </text>
+                    <text id="--c-font-label" opacity="0.800000012" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" fill="#888888">
+                        <tspan x="0" y="14">Description</tspan>
+                    </text>
+                </g>
+                <g id="Description-Input-Field" transform="translate(20.000000, 182.000000)">
+                    <rect id="--c-focus" fill="#0276C2" x="1" y="39" width="530" height="1"></rect>
+                    <g id="lookup" transform="translate(509.000000, 16.000000)" fill="#000000" fill-rule="nonzero">
+                        <path d="M14,15.831 L14,5.4 L8.75,0 L1.75,0 C0.7875,0 0.00875,0.81 0.00875,1.8 L0,16.2 C0,17.19 0.77875,18 1.74125,18 L12.25,18 C12.64375,18 12.99375,17.865 13.29125,17.64 L9.415,13.653 C8.715,14.121 7.8925,14.4 7,14.4 C4.585,14.4 2.625,12.384 2.625,9.9 C2.625,7.416 4.585,5.4 7,5.4 C9.415,5.4 11.375,7.416 11.375,9.9 C11.375,10.818 11.10375,11.664 10.64875,12.375 L14,15.831 Z M4.375,9.9 C4.375,11.394 5.5475,12.6 7,12.6 C8.4525,12.6 9.625,11.394 9.625,9.9 C9.625,8.406 8.4525,7.2 7,7.2 C5.5475,7.2 4.375,8.406 4.375,9.9 Z" id="--c-text"></path>
+                    </g>
+                    <g id="peek" transform="translate(465.000000, 19.000000)" fill="#A0A0A0" fill-rule="nonzero">
+                        <path d="M10.5,0 C5.72727273,0 1.65136364,2.90266667 0,7 C1.65136364,11.0973333 5.72727273,14 10.5,14 C15.2727273,14 19.3486364,11.0973333 21,7 C19.3486364,2.90266667 15.2727273,0 10.5,0 Z M10.5,11.6666667 C7.86545455,11.6666667 5.72727273,9.576 5.72727273,7 C5.72727273,4.424 7.86545455,2.33333333 10.5,2.33333333 C13.1345455,2.33333333 15.2727273,4.424 15.2727273,7 C15.2727273,9.576 13.1345455,11.6666667 10.5,11.6666667 Z M10.5,4.2 C8.91545455,4.2 7.63636364,5.45066667 7.63636364,7 C7.63636364,8.54933333 8.91545455,9.8 10.5,9.8 C12.0845455,9.8 13.3636364,8.54933333 13.3636364,7 C13.3636364,5.45066667 12.0845455,4.2 10.5,4.2 Z" id="--c-disabled"></path>
+                    </g>
+                    <text id="--c-text" fill="#272C37" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16" font-weight="normal">
+                        <tspan x="1" y="34">ALDA</tspan>
+                    </text>
+                    <text id="--c-focus" opacity="0.800000012" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" fill="#087AC4">
+                        <tspan x="0" y="14">Description</tspan>
+                    </text>
+                </g>
+                <g id="Code-Input-Field" transform="translate(20.000000, 112.000000)">
+                    <text id="--c-font-label" opacity="0.800000012" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="12" font-weight="normal" fill="#919298">
+                        <tspan x="0" y="54">Description of the code here</tspan>
+                    </text>
+                    <rect id="--c-error" fill="#E00000" x="1" y="39" width="530" height="1"></rect>
+                    <text id="--c-error" opacity="0.800000012" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" fill="#E83E3E">
+                        <tspan x="0" y="14">Code</tspan>
+                    </text>
+                </g>
+                <g id="Header-Group" transform="translate(1.000000, 48.000000)">
+                    <rect id="--c-group-bar" fill="#FBFBFB" x="0" y="0" width="568" height="48"></rect>
+                    <rect id="--c-accent" fill="#0076C2" x="0" y="0" width="8" height="48"></rect>
+                    <text id="--c-text" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="16" font-weight="bold" fill="#212B36">
+                        <tspan x="46" y="31">Header</tspan>
+                    </text>
+                    <path d="M27.6015468,19.9062764 L33.382783,25.6484503 C33.4609078,25.7526169 33.4999702,25.8632935 33.4999702,25.9804807 C33.4999702,26.0976679 33.4609078,26.2083446 33.382783,26.3125112 L32.6015348,27.0937593 C32.4973682,27.1718841 32.380181,27.2109465 32.2499732,27.2109465 C32.1197654,27.2109465 32.0155987,27.1718841 31.9374739,27.0937593 L27.2499851,22.4453329 L22.5624963,27.0937593 C22.4843715,27.1718841 22.3802048,27.2109465 22.249997,27.2109465 C22.1197892,27.2109465 22.002602,27.1718841 21.8984354,27.0937593 L21.1562496,26.3125112 C21.052083,26.2083446 21,26.0976679 21,25.9804807 C21,25.8632935 21.0390624,25.7526169 21.1171872,25.6484503 L26.9374858,19.9062764 C27.0156107,19.8281516 27.1197773,19.7890892 27.2499851,19.7890892 C27.3801929,19.7890892 27.4973801,19.8281516 27.6015468,19.9062764 Z" id="--c-text" fill="#212B36" fill-rule="nonzero"></path>
+                </g>
+                <g id="Header-Bar" transform="translate(0.000943, 0.000000)">
+                    <path d="M4.99905749,0 L564.999057,0 C567.208196,-4.05812251e-16 568.999057,1.790861 568.999057,4 L568.999057,48 L0.999057493,48 L0.999057493,4 C0.999057493,1.790861 2.78991849,4.05812251e-16 4.99905749,0 Z" id="--c-header-bar" fill="#FFFFFF"></path>
+                    <rect id="--c-border" fill="#D8D8D8" x="0.999057493" y="47" width="568" height="1"></rect>
+                    <polygon id="--c-text" fill="#212B36" fill-rule="nonzero" transform="translate(546.000000, 25.000000) rotate(-360.000000) translate(-546.000000, -25.000000) " points="542.155414 19 540 21.155414 541.100637 22.256051 543.821656 25.0229299 541.100637 27.743949 540 28.7987261 542.155414 31 543.256051 29.8993631 546.02293 27.1324841 548.743949 29.8993631 549.798726 31 552 28.7987261 550.899363 27.743949 548.132484 25.0229299 550.899363 22.256051 552 21.155414 549.798726 19 548.743949 20.1006369 546.02293 22.8216561 543.256051 20.1006369"></polygon>
+                    <text id="--c-heading" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="18" font-weight="bold" fill="#212B36">
+                        <tspan x="14.0094251" y="31">Edit Resource</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
