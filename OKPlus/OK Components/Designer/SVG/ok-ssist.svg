@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="352px" height="1056px" viewBox="0 0 352 1056" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>OK Assist</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 336 0 336 1032 0 1032"></polygon>
+        <filter x="-8.3%" y="-3.5%" width="116.7%" height="105.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="No-Odd-&amp;-Even" transform="translate(-1568.000000, -24.000000)">
+            <g id="Base" transform="translate(-1.000000, -1.000000)">
+                <g id="OK-Assist" transform="translate(1585.000000, 49.000000)">
+                    <g id="appbarbg">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Actions_button" transform="translate(13.000000, 110.000000)">
+                        <rect id="Rectangle" stroke="#BCBCBE" fill="#FFFFFF" x="0.5" y="0.5" width="309" height="113" rx="4"></rect>
+                        <rect id="Rectangle" stroke="#BCBCBE" fill="#F4F4F4" x="0.5" y="0.5" width="309" height="44" rx="3"></rect>
+                        <path d="M24.0390621,26.5664121 C23.9843747,26.5117247 23.9570311,26.4388081 23.9570311,26.3476626 C23.9570311,26.2565171 23.9843747,26.174486 24.0390621,26.1015694 L29.7812359,20.3867393 C29.8359233,20.3138227 29.9088399,20.2773645 29.9999854,20.2773645 C30.0911309,20.2773645 30.1640475,20.3138227 30.2187349,20.3867393 L35.9609087,26.1015694 C36.0155961,26.174486 36.0429397,26.2565171 36.0429397,26.3476626 C36.0429397,26.4388081 36.0155961,26.5117247 35.9609087,26.5664121 L35.414035,27.1132857 C35.3593476,27.1862024 35.286431,27.2226605 35.1952855,27.2226605 C35.10414,27.2226605 35.022109,27.1862024 34.9491923,27.1132857 L29.9999854,22.1640788 L25.0507784,27.1132857 C24.9778618,27.1862024 24.8958308,27.2226605 24.8046853,27.2226605 C24.7135398,27.2226605 24.6406232,27.1862024 24.5859358,27.1132857 L24.0390621,26.5664121 Z" id="chev-up" fill="#292C36" fill-rule="nonzero"></path>
+                        <path d="M2,1 L6,1 L6,44 L2,44 C1.44771525,44 1,43.5522847 1,43 L1,2 C1,1.44771525 1.44771525,1 2,1 Z" id="Rectangle" fill="#0076C2"></path>
+                        <text id="Actions-Copy" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="16" font-weight="bold" fill="#292C36">
+                            <tspan x="52.348" y="29">Actions</tspan>
+                        </text>
+                        <text id="Cross-Reference" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="16" font-weight="bold" fill="#292C36">
+                            <tspan x="35.328" y="87">Cross Reference</tspan>
+                        </text>
+                    </g>
+                    <g id="btn_action-copy" transform="translate(13.000000, 53.000000)">
+                        <path d="M2,-0.5 L308,-0.5 C309.380712,-0.5 310.5,0.619288125 310.5,2 L310.5,34 C310.5,35.3807119 309.380712,36.5 308,36.5 L2,36.5 C0.619288125,36.5 -0.5,35.3807119 -0.5,34 L-0.5,2 C-0.5,0.619288125 0.619288125,-0.5 2,-0.5 Z" id="Button-idle-Copy" stroke="#69666F" stroke-width="1" fill="#F4F4F4" fill-rule="evenodd" stroke-linecap="square"></path>
+                        <text id="Button-text-Copy" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="16" font-weight="bold" fill="#292C36">
+                            <tspan x="110.672" y="24">Data Actions</tspan>
+                        </text>
+                    </g>
+                    <polygon id="appbarbg" points="0 0 336 0 336 53 0 53"></polygon>
+                    <g id="Close" transform="translate(296.000000, 16.000000)">
+                        <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M13.6874826,12.2500161 L17.4491923,16.046882 C17.5663794,16.140632 17.6249732,16.2695376 17.6249732,16.4335999 C17.6249732,16.5976622 17.5663794,16.7265677 17.4491923,16.8203177 L16.5702882,17.6992219 C16.4765382,17.8164089 16.3476327,17.8750027 16.1835704,17.8750027 C16.0195081,17.8750027 15.8906025,17.8164089 15.7968525,17.6992219 L11.9999866,13.9375121 L8.20312064,17.6992219 C8.10937069,17.8164089 7.9804651,17.8750027 7.81640281,17.8750027 C7.65234053,17.8750027 7.52343494,17.8164089 7.42968499,17.6992219 L6.55078083,16.8203177 C6.43359379,16.7265677 6.375,16.5976622 6.375,16.4335999 C6.375,16.2695376 6.43359379,16.140632 6.55078083,16.046882 L10.3124906,12.2500161 L6.55078083,8.45315015 C6.43359379,8.35940019 6.375,8.23049461 6.375,8.06643232 C6.375,7.90237003 6.43359379,7.77346445 6.55078083,7.67971449 L7.42968499,6.80081034 C7.52343494,6.68362329 7.65234053,6.6250295 7.81640281,6.6250295 C7.9804651,6.6250295 8.10937069,6.68362329 8.20312064,6.80081034 L11.9999866,10.5625201 L15.7968525,6.80081034 C15.8906025,6.68362329 16.0195081,6.6250295 16.1835704,6.6250295 C16.3476327,6.6250295 16.4765382,6.68362329 16.5702882,6.80081034 L17.4491923,7.67971449 C17.5663794,7.77346445 17.6249732,7.90237003 17.6249732,8.06643232 C17.6249732,8.23049461 17.5663794,8.35940019 17.4491923,8.45315015 L13.6874826,12.2500161 Z" id="close" fill="#292C36" fill-rule="nonzero"></path>
+                    </g>
+                    <text id="Assist" opacity="0.800000012" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="16" font-weight="bold" fill="#292C36">
+                        <tspan x="14" y="35">Assist</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
