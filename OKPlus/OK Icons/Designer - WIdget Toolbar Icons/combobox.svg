@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>combobox</title>
+    <desc>Created with Sketch.</desc>
+    <g id="combobox" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#000000" stroke-width="1.5" x="0.75" y="6.75" width="22.5" height="7.5"></rect>
+        <path d="M17.2691444,10 L20.7308556,10 C20.9703366,10 21.0900771,10.2549659 20.9205568,10.4043878 L19.1903739,11.9306256 C19.0854328,12.0231248 18.9145672,12.0231248 18.8096261,11.9306256 L17.0794432,10.4043878 C16.9099229,10.2549659 17.0296634,10 17.2691444,10 Z" id="Path-Copy" fill="#000000" fill-rule="nonzero"></path>
+        <rect id="Rectangle" fill="#000000" x="3" y="10" width="12" height="1"></rect>
+    </g>
+</svg>

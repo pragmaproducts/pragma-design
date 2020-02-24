@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>vertical_divider</title>
+    <desc>Created with Sketch.</desc>
+    <g id="vertical_divider" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="vertical-divider" transform="translate(11.000000, 0.000000)" fill="#000000" stroke="#000000">
+            <path d="M-10.5,11.5 L-10.5,12.5 L12.5,12.5 L12.5,11.5 L-10.5,11.5 Z" id="Rectangle" transform="translate(1.000000, 12.000000) rotate(-90.000000) translate(-1.000000, -12.000000) "></path>
+        </g>
+        <path d="M8,1 L8,25" id="Line-6" stroke="#000000" stroke-linecap="square" stroke-dasharray="2"></path>
+        <path d="M16,1 L16,25" id="Line-6" stroke="#000000" stroke-linecap="square" stroke-dasharray="2"></path>
+    </g>
+</svg>

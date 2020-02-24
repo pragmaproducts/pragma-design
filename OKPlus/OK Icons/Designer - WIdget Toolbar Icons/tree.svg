@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>tree</title>
+    <desc>Created with Sketch.</desc>
+    <g id="tree" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g transform="translate(1.000000, 5.000000)" stroke="#000000" stroke-width="2">
+            <path d="M4,1.5 L18.4230769,1.5" id="Line-5-Copy-6"></path>
+            <path d="M0,1.5 L0.961538462,1.5" id="Line-5-Copy-7" transform="translate(0.500000, 1.500000) scale(-1, 1) translate(-0.500000, -1.500000) "></path>
+            <path d="M9,6.5 L23.4230769,6.5" id="Line-5-Copy-8"></path>
+            <path d="M5,6.5 L5.96153846,6.5" id="Line-5-Copy-9" transform="translate(5.500000, 6.500000) scale(-1, 1) translate(-5.500000, -6.500000) "></path>
+            <path d="M9,12.5 L23.4230769,12.5" id="Line-5-Copy-10"></path>
+            <path d="M5,12.5 L5.96153846,12.5" id="Line-5-Copy-11" transform="translate(5.500000, 12.500000) scale(-1, 1) translate(-5.500000, -12.500000) "></path>
+        </g>
+    </g>
+</svg>
