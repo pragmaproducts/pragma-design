@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1337" height="808" viewBox="0 0 1337 808">
+  <defs>
+    <filter id="filter-1" width="107%" height="105.8%" x="-3.5%" y="-2.9%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1">
+    <g id="states">
+      <rect id="Rectangle" width="1337" height="807" x="0" y="0" fill="#F4F6F8" fill-rule="nonzero" opacity=".006"/>
+      <g id="Modal" fill="#292C36" fill-rule="nonzero" opacity=".5" transform="translate(1 49)">
+        <rect id="--c-overlay" width="944" height="758" x=".5" y=".5"/>
+      </g>
+      <g id="states-wrapper" filter="url(#filter-1)" transform="translate(183 84)">
+        <rect id="--c-surface-bg" width="568" height="689" x="0" y="0" fill="#FFF" rx="4"/>
+        <g id="Footer" transform="translate(1 640)">
+          <path id="--c-footer-bar" fill="#FFF" d="M0,0 L568,0 L568,44 C568,46.209139 566.209139,48 564,48 L4,48 C1.790861,48 2.705415e-16,46.209139 0,44 L0,0 L0,0 Z"/>
+          <g id="secondary" fill="#2F323E" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="16" font-weight="bold" transform="translate(339.5 13)">
+            <text id="--c-s-button">
+              <tspan x="5.58" y="16">Undo</tspan>
+            </text>
+          </g>
+          <g id="secondary-copy" transform="translate(240 8)">
+            <rect id="--c-s-button" width="74" height="31" x=".5" y=".5" stroke="#272C37" rx="4"/>
+            <rect id="--c-s-button-bg" width="73" height="30" x="1" y="1" fill="#FFF" rx="4"/>
+            <text id="--c-s-button" fill="#292C36" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="16" font-weight="bold">
+              <tspan x="13.884" y="21">Cancel</tspan>
+            </text>
+          </g>
+          <g id="primary" transform="translate(411 8)">
+            <rect id="--c-p-button-bg" width="140" height="31" x=".5" y=".5" fill="#272C37" stroke="#292C36" rx="4"/>
+            <text id="--c-p-button" fill="#FFF" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="16" font-weight="bold">
+              <tspan x="16.992" y="21">Save And Close</tspan>
+            </text>
+          </g>
+          <polygon id="--c-border" fill="#D8D8D8" fill-rule="nonzero" points="569 0 569 1 0 1 0 0"/>
+        </g>
+        <g id="Description-Input-Field" transform="translate(19 432)">
+          <text id="--c-font-label" fill="#888" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" opacity=".8">
+            <tspan x="0" y="120">Switch Enabled On</tspan>
+          </text>
+          <text id="--c-font-label" fill="#939393" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" opacity=".8">
+            <tspan x="278" y="120">Switch Disabled On</tspan>
+          </text>
+          <g id="Switch" transform="translate(212.149 96.486)">
+            <g id="Switch/On/Active" transform="translate(.351 .635)">
+              <g id="Group" transform="translate(11 11)">
+                <rect id="--c-switch-on-bg" width="31" height="17" x="0" y="0" fill="#0276C2" rx="8"/>
+                <circle id="--c-switch-indicator" cx="22.5" cy="8.5" r="7.5" fill="#FFF"/>
+              </g>
+            </g>
+            <g id="Switch/On/Active-Copy-2" transform="translate(277.851 .635)">
+              <g id="Group" transform="translate(11 11)">
+                <rect id="--c-switch-disabled-bg" width="31" height="17" x="0" y="0" fill="#EDEDED" rx="8"/>
+                <circle id="--c-switch-indicator" cx="22.5" cy="8.5" r="7.5" fill="#FFF"/>
+              </g>
+            </g>
+            <g id="Switch/On/Active-Copy" transform="translate(6.351 32.514)">
+              <g id="Group-Copy" transform="matrix(-1 0 0 1 37 11)">
+                <rect id="--c-switch-off-bg" width="31" height="17" x="0" y="0" fill="#A7A4AA" rx="8"/>
+                <circle id="--c-switch-indicator" cx="22.5" cy="8.5" r="7.5" fill="#FFF"/>
+              </g>
+            </g>
+            <g id="Switch/On/Active-Copy-3" transform="translate(283.851 32.514)">
+              <g id="Group-Copy" transform="matrix(-1 0 0 1 37 11)">
+                <rect id="--c-switch-disabled-bg" width="31" height="17" x="0" y="0" fill="#F0F0F0" rx="8"/>
+                <circle id="--c-switch-indicator" cx="22.5" cy="8.5" r="7.5" fill="#FFF"/>
+              </g>
+            </g>
+          </g>
+          <text id="--c-font-label" fill="#939393" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" opacity=".8">
+            <tspan x="0" y="154">Switch Enabled Off</tspan>
+          </text>
+          <text id="--c-font-label" fill="#939393" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" opacity=".8">
+            <tspan x="278" y="154">Switch Disabled Off</tspan>
+          </text>
+          <text id="--c-font-label" fill="#9D9D9D" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" opacity=".8">
+            <tspan x="0" y="23">Selection Control Selectd Enabled</tspan>
+          </text>
+          <text id="--c-font-label" fill="#9D9D9D" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" opacity=".8">
+            <tspan x="278" y="23">Selection Control Selectd Disabled</tspan>
+          </text>
+          <g id="Radio/Selected/Active" fill="#0076C2" transform="translate(222)">
+            <g id="Group-2" transform="translate(9 9)">
+              <path id="--c-sc-selected" fill-rule="nonzero" d="M10,20 C15.5228475,20 20,15.5228475 20,10 C20,4.4771525 15.5228475,0 10,0 C4.4771525,0 0,4.4771525 0,10 C0,15.5228475 4.4771525,20 10,20 Z M10,18 C5.581722,18 2,14.418278 2,10 C2,5.581722 5.581722,2 10,2 C14.418278,2 18,5.581722 18,10 C18,14.418278 14.418278,18 10,18 Z"/>
+              <circle id="--c-sc-selected" cx="10" cy="10" r="5"/>
+            </g>
+          </g>
+          <g id="Radio/Selected/Active-Copy" fill="#DEDCDF" transform="translate(500)">
+            <g id="Group-2" transform="translate(9 9)">
+              <path id="--c-sc-disabled" fill-rule="nonzero" d="M10,20 C15.5228475,20 20,15.5228475 20,10 C20,4.4771525 15.5228475,0 10,0 C4.4771525,0 0,4.4771525 0,10 C0,15.5228475 4.4771525,20 10,20 Z M10,18 C5.581722,18 2,14.418278 2,10 C2,5.581722 5.581722,2 10,2 C14.418278,2 18,5.581722 18,10 C18,14.418278 14.418278,18 10,18 Z"/>
+              <circle id="--c-sc-disabled" cx="10" cy="10" r="5"/>
+            </g>
+          </g>
+          <g id="Radio/Unselected/Disabled" fill="#DEDCDF" fill-rule="nonzero" transform="translate(501 36)">
+            <path id="--c-sc-disabled" d="M18,28 C23.5228475,28 28,23.2989899 28,17.5 C28,11.7010101 23.5228475,7 18,7 C12.4771525,7 8,11.7010101 8,17.5 C8,23.2989899 12.4771525,28 18,28 Z M18,25.9 C13.581722,25.9 10,22.1391919 10,17.5 C10,12.8608081 13.581722,9.1 18,9.1 C22.418278,9.1 26,12.8608081 26,17.5 C26,22.1391919 22.418278,25.9 18,25.9 Z"/>
+          </g>
+          <text id="--c-font-label" fill="#9D9D9D" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" opacity=".8">
+            <tspan x="278" y="57">Selection Control Unselected Disabled</tspan>
+          </text>
+          <g id="Radio/Unselected/Disabled" fill="#272C37" fill-rule="nonzero" transform="translate(222 34)">
+            <path id="--c-sc-unselected" d="M19,30 C24.5228475,30 29,25.2989899 29,19.5 C29,13.7010101 24.5228475,9 19,9 C13.4771525,9 9,13.7010101 9,19.5 C9,25.2989899 13.4771525,30 19,30 Z M19,27.9 C14.581722,27.9 11,24.1391919 11,19.5 C11,14.8608081 14.581722,11.1 19,11.1 C23.418278,11.1 27,14.8608081 27,19.5 C27,24.1391919 23.418278,27.9 19,27.9 Z"/>
+          </g>
+          <text id="--c-font-label" fill="#A7A7A7" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" opacity=".8">
+            <tspan x="0" y="57">Selection Control Unselected Enabled</tspan>
+          </text>
+        </g>
+        <g id="Input-Disabled" transform="translate(20 358)">
+          <text id="--c-font-label" fill="#333949" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal">
+            <tspan x="0" y="14">Default Trade Code</tspan>
+          </text>
+          <path id="--c-border" fill="#DADADA" fill-rule="nonzero" d="M527.709677,19 L4.29032258,19 C1.92084285,19 0,20.1192881 0,21.5 L0,49.5 C0,50.8807119 1.92084285,52 4.29032258,52 L527.709677,52 C530.079157,52 532,50.8807119 532,49.5 L532,21.5 C532,20.1192881 530.079157,19 527.709677,19 Z M4.5762987,20 L528.423701,20 C529.846552,20 531,20.6715729 531,21.5 L531,49.5 C531,50.3284271 529.846552,51 528.423701,51 L4.5762987,51 C3.15344822,51 2,50.3284271 2,49.5 L2,21.5 C2,20.6715729 3.15344822,20 4.5762987,20 Z"/>
+          <rect id="--c-input-disabled-bg" width="530" height="32" x="1" y="19.5" fill="#F4F4F4" rx="2"/>
+          <text id="--c-text" fill="#4D556B" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16" font-weight="normal">
+            <tspan x="10" y="40">SUPE</tspan>
+          </text>
+        </g>
+        <g id="Input-Error" transform="translate(20 272)">
+          <text id="--c-font-label" fill="#2C323F" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal">
+            <tspan x="0" y="14">Site Code</tspan>
+          </text>
+          <path id="--c-error" fill="#E00000" fill-rule="nonzero" d="M527.709677,19 L4.29032258,19 C1.92084285,19 0,20.1192881 0,21.5 L0,49.5 C0,50.8807119 1.92084285,52 4.29032258,52 L527.709677,52 C530.079157,52 532,50.8807119 532,49.5 L532,21.5 C532,20.1192881 530.079157,19 527.709677,19 Z M4.5762987,20 L528.423701,20 C529.846552,20 531,20.6715729 531,21.5 L531,49.5 C531,50.3284271 529.846552,51 528.423701,51 L4.5762987,51 C3.15344822,51 2,50.3284271 2,49.5 L2,21.5 C2,20.6715729 3.15344822,20 4.5762987,20 Z"/>
+          <rect id="--c-input-error-bg" width="530" height="32" x="1" y="19.5" fill="#FBF3F3" rx="2"/>
+          <text id="--c-font-descriptor" fill="#919298" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="12" font-weight="normal" opacity=".8">
+            <tspan x="0" y="65">Description of the code here</tspan>
+          </text>
+          <g id="icon" fill-rule="nonzero" transform="translate(507 27)">
+            <path id="--c-error" fill="#E00000" d="M7.99998093,15.7499958 C9.39581109,15.7499958 10.6874745,15.4010382 11.8749717,14.7031233 C13.0624689,14.0052085 14.0051751,13.0625022 14.7030899,11.8750051 C15.4010048,10.6875079 15.7499624,9.39584447 15.7499624,8.00001431 C15.7499624,6.60418414 15.4010048,5.31252071 14.7030899,4.12502354 C14.0051751,2.93752638 13.0624689,1.99482013 11.8749717,1.29690529 C10.6874745,0.598990443 9.39581109,0.250032783 7.99998093,0.250032783 C6.60415076,0.250032783 5.31248733,0.598990443 4.12499017,1.29690529 C2.937493,1.99482013 1.99478675,2.93752638 1.29687191,4.12502354 C0.598957064,5.31252071 0.249999404,6.60418414 0.249999404,8.00001431 C0.249999404,9.39584447 0.598957064,10.6875079 1.29687191,11.8750051 C1.99478675,13.0625022 2.937493,14.0052085 4.12499017,14.7031233 C5.31248733,15.4010382 6.60415076,15.7499958 7.99998093,15.7499958 Z"/>
+            <path id="--c-text-light" fill="#FFF" d="M8.71034477,9.2499851 C8.96013055,9.2499851 9.16602834,9.05411993 9.17850237,8.8046584 L9.44413818,3.49217107 C9.45750867,3.22441811 9.24405779,3 8.9759615,3 L7.14903105,3 C6.88093476,3 6.66748388,3.22441811 6.68085437,3.49217107 L6.94649018,8.8046584 C6.95896421,9.05411993 7.164862,9.2499851 7.41464778,9.2499851 L8.71034477,9.2499851 Z M8.06249627,12.9999762 C8.92406267,12.9999762 9.62499255,12.2990463 9.62499255,11.4374799 C9.62499255,10.5759135 8.92406267,9.87498361 8.06249627,9.87498361 C7.20092988,9.87498361 6.5,10.5759135 6.5,11.4374799 C6.5,12.2990463 7.20092988,12.9999762 8.06249627,12.9999762 Z"/>
+          </g>
+        </g>
+        <g id="Input-Req" transform="translate(20 189)">
+          <text id="--c-font-label" fill="#272C37" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal">
+            <tspan x="0" y="14">Permission Tree Code</tspan>
+          </text>
+          <path id="--c-warning" fill="#F97825" fill-rule="nonzero" d="M527.709677,19 L4.29032258,19 C1.92084285,19 0,20.1192881 0,21.5 L0,49.5 C0,50.8807119 1.92084285,52 4.29032258,52 L527.709677,52 C530.079157,52 532,50.8807119 532,49.5 L532,21.5 C532,20.1192881 530.079157,19 527.709677,19 Z M4.5762987,20 L528.423701,20 C529.846552,20 531,20.6715729 531,21.5 L531,49.5 C531,50.3284271 529.846552,51 528.423701,51 L4.5762987,51 C3.15344822,51 2,50.3284271 2,49.5 L2,21.5 C2,20.6715729 3.15344822,20 4.5762987,20 Z"/>
+          <text id="--c-font-descriptor" fill="#919298" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="12" font-weight="normal" opacity=".8">
+            <tspan x="0" y="65">Description of the code here</tspan>
+          </text>
+          <g id="icon" transform="translate(1 19)">
+            <rect id="--c-input-req-bg" width="530" height="32" x="0" y=".5" fill="#FFFCEA" rx="2"/>
+            <path id="--c-warning" fill="#76C422" fill-rule="nonzero" d="M513.999981,23.7499958 C515.395811,23.7499958 516.687475,23.4010382 517.874972,22.7031233 C519.062469,22.0052085 520.005175,21.0625022 520.70309,19.8750051 C521.401005,18.6875079 521.749962,17.3958445 521.749962,16.0000143 C521.749962,14.6041841 521.401005,13.3125207 520.70309,12.1250235 C520.005175,10.9375264 519.062469,9.99482013 517.874972,9.29690529 C516.687475,8.59899044 515.395811,8.25003278 513.999981,8.25003278 C512.604151,8.25003278 511.312487,8.59899044 510.12499,9.29690529 C508.937493,9.99482013 507.994787,10.9375264 507.296872,12.1250235 C506.598957,13.3125207 506.249999,14.6041841 506.249999,16.0000143 C506.249999,17.3958445 506.598957,18.6875079 507.296872,19.8750051 C507.994787,21.0625022 508.937493,22.0052085 510.12499,22.7031233 C511.312487,23.4010382 512.604151,23.7499958 513.999981,23.7499958 Z"/>
+            <path id="--c-text-light" fill="#FFF" fill-rule="nonzero" d="M514.562489,21.1249973 C514.64452,21.1249973 514.711902,21.0986302 514.764637,21.0458959 C514.817371,20.9931617 514.843738,20.9257791 514.843738,20.843748 L514.843738,20.843748 L514.843738,18.0839889 L517.234357,19.4726575 C517.30467,19.5078137 517.377912,19.5136729 517.454083,19.4902356 C517.530255,19.4667982 517.585919,19.4257825 517.621075,19.367189 L517.621075,19.367189 L518.183574,18.3828164 C518.21873,18.3242228 518.227519,18.25684 518.209941,18.1806684 C518.192363,18.1044968 518.148418,18.0429735 518.078105,17.9960985 L518.078105,17.9960985 L515.687486,16.625008 L518.078105,15.2539176 C518.148418,15.2070426 518.192363,15.1455193 518.209941,15.0693477 C518.227519,14.9931761 518.21873,14.9257933 518.183574,14.8671997 L518.183574,14.8671997 L517.621075,13.8828271 C517.585919,13.8242336 517.530255,13.7832179 517.454083,13.7597805 C517.377912,13.7363431 517.30467,13.7422024 517.234357,13.7773586 L517.234357,13.7773586 L514.843738,15.1660272 L514.843738,12.4062681 C514.843738,12.324237 514.817371,12.2568544 514.764637,12.2041201 C514.711902,12.1513859 514.64452,12.1250188 514.562489,12.1250188 L514.562489,12.1250188 L513.437491,12.1250188 C513.35546,12.1250188 513.288078,12.1513859 513.235343,12.2041201 C513.182609,12.2568544 513.156242,12.324237 513.156242,12.4062681 L513.156242,12.4062681 L513.156242,15.1660272 L510.765623,13.7773586 C510.69531,13.7422024 510.622068,13.7363431 510.545897,13.7597805 C510.469725,13.7832179 510.414061,13.8242336 510.378905,13.8828271 L510.378905,13.8828271 L509.816406,14.8671997 C509.78125,14.9257933 509.772461,14.9931761 509.790039,15.0693477 C509.807617,15.1455193 509.851562,15.2070426 509.921875,15.2539176 L509.921875,15.2539176 L512.312494,16.625008 L509.921875,17.9960985 C509.851562,18.0429735 509.807617,18.1044968 509.790039,18.1806684 C509.772461,18.25684 509.78125,18.3242228 509.816406,18.3828164 L509.816406,18.3828164 L510.378905,19.367189 C510.414061,19.4257825 510.469725,19.4667982 510.545897,19.4902356 C510.622068,19.5136729 510.69531,19.5078137 510.765623,19.4726575 L510.765623,19.4726575 L513.156242,18.0839889 L513.156242,20.843748 C513.156242,20.9257791 513.182609,20.9931617 513.235343,21.0458959 C513.288078,21.0986302 513.35546,21.1249973 513.437491,21.1249973 L513.437491,21.1249973 L514.562489,21.1249973 Z"/>
+          </g>
+        </g>
+        <g id="Input" transform="translate(20 106)">
+          <text id="--c-font-label" fill="#2C323F" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal">
+            <tspan x="0" y="14">Code</tspan>
+          </text>
+          <path id="--c-focus" fill="#0276C2" fill-rule="nonzero" d="M527.709677,19 L4.29032258,19 C1.92084285,19 0,20.1192881 0,21.5 L0,49.5 C0,50.8807119 1.92084285,52 4.29032258,52 L527.709677,52 C530.079157,52 532,50.8807119 532,49.5 L532,21.5 C532,20.1192881 530.079157,19 527.709677,19 Z M4.5762987,20 L528.423701,20 C529.846552,20 531,20.6715729 531,21.5 L531,49.5 C531,50.3284271 529.846552,51 528.423701,51 L4.5762987,51 C3.15344822,51 2,50.3284271 2,49.5 L2,21.5 C2,20.6715729 3.15344822,20 4.5762987,20 Z"/>
+          <rect id="--c-input-focus-bg" width="530" height="32" x="1" y="19.5" fill="#ECF7FF" rx="2"/>
+          <text id="--c-text" fill="#272C37" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16" font-weight="normal">
+            <tspan x="7" y="41">ADMIN</tspan>
+          </text>
+          <text id="--c-font-descriptor" fill="#919298" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="12" font-weight="normal" opacity=".8">
+            <tspan x="0" y="65">Description of the code here</tspan>
+          </text>
+        </g>
+        <g id="Header-Group" transform="translate(0 48)">
+          <rect id="--c-group-bar" width="568" height="48" x="0" y="0" fill="#FBFBFB"/>
+          <rect id="--c-accent" width="8" height="48" x="0" y="0" fill="#0076C2"/>
+          <text id="--c-text" fill="#212B36" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="16" font-weight="bold">
+            <tspan x="46" y="31">Header</tspan>
+          </text>
+          <path id="--c-text" fill="#212B36" fill-rule="nonzero" d="M27.6015468,19.9062764 L33.382783,25.6484503 C33.4609078,25.7526169 33.4999702,25.8632935 33.4999702,25.9804807 C33.4999702,26.0976679 33.4609078,26.2083446 33.382783,26.3125112 L32.6015348,27.0937593 C32.4973682,27.1718841 32.380181,27.2109465 32.2499732,27.2109465 C32.1197654,27.2109465 32.0155987,27.1718841 31.9374739,27.0937593 L27.2499851,22.4453329 L22.5624963,27.0937593 C22.4843715,27.1718841 22.3802048,27.2109465 22.249997,27.2109465 C22.1197892,27.2109465 22.002602,27.1718841 21.8984354,27.0937593 L21.1562496,26.3125112 C21.052083,26.2083446 21,26.0976679 21,25.9804807 C21,25.8632935 21.0390624,25.7526169 21.1171872,25.6484503 L26.9374858,19.9062764 C27.0156107,19.8281516 27.1197773,19.7890892 27.2499851,19.7890892 C27.3801929,19.7890892 27.4973801,19.8281516 27.6015468,19.9062764 Z"/>
+        </g>
+        <g id="Header-Bar">
+          <path id="--c-header-bar" fill="#FFF" d="M3.99905749,0 L563.999057,0 C566.208196,-4.05812251e-16 567.999057,1.790861 567.999057,4 L567.999057,48 L567.999057,48 L-0.000942507068,48 L-0.000942507068,4 C-0.000942507068,1.790861 1.78991849,4.05812251e-16 3.99905749,0 Z"/>
+          <rect id="--c-border" width="568" height="1" x="-.001" y="47" fill="#D8D8D8"/>
+          <polygon id="--c-text" fill="#212B36" fill-rule="nonzero" points="541.155 19 539 21.155 540.101 22.256 542.822 25.023 540.101 27.744 539 28.799 541.155 31 542.256 29.899 545.023 27.132 547.744 29.899 548.799 31 551 28.799 549.899 27.744 547.132 25.023 549.899 22.256 551 21.155 548.799 19 547.744 20.101 545.023 22.822 542.256 20.101"/>
+          <text id="--c-heading" fill="#212B36" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="18" font-weight="bold">
+            <tspan x="13.009" y="31">Edit Resource</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
