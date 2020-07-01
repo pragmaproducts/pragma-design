@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="36px" viewBox="0 0 28 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Coffee Machine</title>
+    <g id="Coffee-Machine" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#272C37" cx="16.2077013" cy="17.2077013" r="8.70770125"></circle>
+        <circle id="Oval-Copy" stroke="#272C37" cx="18.6654025" cy="17.1654025" r="5.25"></circle>
+        <rect id="Rectangle" stroke="#272C37" x="0.5" y="0.5" width="27" height="35"></rect>
+    </g>
+</svg>

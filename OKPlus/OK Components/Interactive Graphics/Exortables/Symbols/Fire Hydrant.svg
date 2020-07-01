@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="40px" viewBox="0 0 23 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Fire Hydrant</title>
+    <g id="Fire-Hydrant" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#272C37" x="18.5179858" y="18.5" width="3.1" height="2.75"></rect>
+        <rect id="Rectangle-Copy-38" stroke="#272C37" fill="#272C37" x="4.73814007" y="2.98600113" width="3.1" height="34.4525543"></rect>
+        <rect id="Rectangle-Copy-40" stroke="#272C37" x="2.68814007" y="2.98600113" width="1.4350223" height="34.4525543"></rect>
+        <path d="M8.08296352,3.102562 L8.08296352,37.20998 L9.51798581,36.6568647 L9.51798581,3.40547497 L8.08296352,3.102562 Z" id="Rectangle-Copy-39" stroke="#272C37"></path>
+        <line x1="0.5" y1="4.32493114" x2="0.5" y2="35.8616317" id="Line-9-Copy" stroke="#272C37" stroke-linecap="square"></line>
+        <line x1="1.51798581" y1="0.5" x2="1.51798581" y2="39.5" id="Line-9" stroke="#272C37" stroke-linecap="square"></line>
+        <line x1="17.5588163" y1="11.2420213" x2="17.5588163" y2="27.5685423" id="Line-9-Copy-3" stroke="#272C37" stroke-linecap="square"></line>
+        <line x1="16.5408305" y1="0.5" x2="16.5408305" y2="39.5" id="Line-9-Copy-2" stroke="#272C37" stroke-linecap="square"></line>
+        <line x1="12.1423992" y1="4.85046338" x2="12.1423992" y2="35.8616317" id="Line-9-Copy-4" stroke="#272C37" stroke-width="2" stroke-linecap="square"></line>
+        <rect id="Rectangle" stroke="#272C37" x="9.85612588" y="4.82493114" width="4.66185993" height="30.5367005"></rect>
+        <line x1="14.5179858" y1="12.5" x2="16.5179858" y2="12.5" id="Line-10" stroke="#272C37" stroke-linecap="square"></line>
+        <line x1="14.5179858" y1="27.5685423" x2="16.5179858" y2="27.5685423" id="Line-10-Copy" stroke="#272C37" stroke-linecap="square"></line>
+    </g>
+</svg>
