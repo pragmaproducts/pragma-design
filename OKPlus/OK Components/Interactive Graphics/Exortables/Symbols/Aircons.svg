@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="80px" viewBox="0 0 42 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Aircons</title>
+    <g id="Aircons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#272C37" x="0" y="2.7" width="3.6" height="74"></rect>
+        <rect id="Rectangle" fill="#272C37" x="30" y="21.95" width="12" height="56"></rect>
+        <rect id="Rectangle-Copy-17" stroke="#272C37" x="31.7" y="3.2" width="8.4" height="14"></rect>
+        <rect id="Rectangle" stroke="#272C37" x="4.1" y="0.5" width="8.4" height="78.7"></rect>
+        <rect id="Rectangle-Copy-18" stroke="#272C37" x="30.5" y="0.5" width="11" height="21"></rect>
+    </g>
+</svg>

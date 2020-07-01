@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="86px" viewBox="0 0 15 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Window/Ext</title>
+    <g id="Window/Ext" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Window" stroke="#272C37">
+            <polygon id="Path-17" points="-7.10542736e-15 0 3 0 3 3 0 3"></polygon>
+            <polygon id="Path-17-Copy" points="-7.10542736e-15 82.5 3 82.5 3 85.5 0 85.5"></polygon>
+            <line x1="14.5" y1="0.5" x2="14.5" y2="85.5" id="Line-4" stroke-width="2" stroke-linecap="square"></line>
+            <line x1="1.5" y1="3.55916116" x2="1.5" y2="81.7973129" id="Line-3" stroke-width="2" stroke-linecap="square"></line>
+        </g>
+    </g>
+</svg>
