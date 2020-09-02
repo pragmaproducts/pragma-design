@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="282" height="47" viewBox="0 0 282 47">
+  <g fill="none" fill-rule="evenodd" transform="translate(1 -4)">
+    <text fill="#272C37" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" opacity=".803">
+      <tspan x="0" y="14">Label</tspan>
+    </text>
+    <rect width="279" height="32" y="18" stroke="#C8C8C8" rx="2"/>
+  </g>
+</svg>
